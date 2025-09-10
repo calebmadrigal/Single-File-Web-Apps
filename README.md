@@ -1,6 +1,6 @@
 # Single-File-Web-Apps
 
-This is a list of Single-File Web Apps (apps that are made of a single `.html` file with all dependencies embedded). Feel free to edit and submit a PR to add another app to this list.
+This is a list of Single-File Web Apps (apps that are made of a single `.html` file with all dependencies embedded). If you know of any other SFWAs, please edit this list and submit an MR!
 
 
 Single-File Web Apps:
